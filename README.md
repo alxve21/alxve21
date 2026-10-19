@@ -1,30 +1,23 @@
-# Hi, I'm Muhammad Hassan
+# Muhammad Hassan | Junior SOC Analyst
 
-Junior SOC Analyst focused on security monitoring, incident response, SIEM investigations, and cloud security.
+I build practical blue-team skills through hands-on SIEM investigations and incident-response lab work. My current focus is **Wazuh, Splunk, Sysmon, and Windows Security Logs**, with a longer-term goal of moving from SOC analysis into **cloud security**.
 
-## Core Skills
-- Splunk
-- Wazuh
-- Sysmon
-- Windows Security Logs
-- Incident Response
-- MITRE ATT&CK
-- Windows & Linux Security
-- Networking Fundamentals
-- PowerShell Investigation
-- Alert Triage & Escalation
+## Focus areas
 
-## Current Focus
-- SOC Analyst portfolio development
-- Incident response workflows
-- SIEM investigations
-- Cloud Security
-- AWS / Azure Security Fundamentals
+- Alert triage, investigation, and incident response
+- Wazuh and Splunk SIEM workflows
+- Sysmon process telemetry and Windows Security Events
+- MITRE ATT&CK mapping
+- Windows and Linux fundamentals
 
-## Featured Projects
-- Wazuh SOC Investigation Lab
-- Splunk Security Investigation Lab
-- Incident Response Case Study
+## Featured portfolio
 
-## Career Goal
-Building toward SOC Analyst and Cloud Security roles in international markets.
+| Project | Focus |
+| --- | --- |
+| [Wazuh SOC Investigation Lab](https://github.com/alxve21/Wazuh-SOC-Investigation-Lab) | Endpoint alert triage, investigations, and detection visibility |
+| [Splunk Security Investigation Lab](https://github.com/alxve21/Splunk-Security-Investigation-Lab) | Windows event searches, process context, and basic correlation |
+| [SOC Incident Response Case Study](https://github.com/alxve21/SOC-Incident-Response-Case-Study) | Simulated incident triage, scope, containment, and analyst handoff |
+
+## Career direction
+
+Developing from **SOC Analyst** work toward **Cloud Security**. This portfolio documents training and lab practice; it does not represent production SOC employment or completed certifications.
